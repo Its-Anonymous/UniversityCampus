@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 7e98c4bc12905fc43b912e882ed16216
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Mesh
+    100006: 'Mesh '
+    100008: Mesh  1
+    400000: Camera
+    400002: //RootNode
+    400004: Mesh
+    400006: 'Mesh '
+    400008: Mesh  1
+    2300000: Mesh
+    2300002: 'Mesh '
+    2300004: Mesh  1
+    3300000: Mesh
+    3300002: 'Mesh '
+    3300004: Mesh  1
+    4300000: Mesh
+    4300002: 'Mesh '
+    4300004: 'Mesh '
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_
+    second: {fileID: 2100000, guid: 9d00ea7ed7394df4db31151ed8352099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 01
+    second: {fileID: 2100000, guid: f4049d9af5d6db34d982e36ad2a08bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 02
+    second: {fileID: 2100000, guid: fedf2d4558cea1248bd1103bee75438c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gitter
+    second: {fileID: 2100000, guid: dfb4de175f4636746846107c03ba5f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 75a08582dd064a243b78efcf16dfa69e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff rotweiss
+    second: {fileID: 2100000, guid: f1c1208da7988b744b4a9e65929c07ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff schwarz
+    second: {fileID: 2100000, guid: 0c82bfcac3d91c34aa9a802f8737fd06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff weiss
+    second: {fileID: 2100000, guid: 3d38dc61c42c3aa48a05366fe8fc8410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marmor 01
+    second: {fileID: 2100000, guid: 0d7d319f9dec37b45a7359b9f67e8e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 01
+    second: {fileID: 2100000, guid: e2819e0b786952549928cb15b6c789cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 02
+    second: {fileID: 2100000, guid: 35f7dfb9f0af8d2449a445e1604597f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 03
+    second: {fileID: 2100000, guid: a81d3b61278f37748a9a5afb564197c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 04
+    second: {fileID: 2100000, guid: c8e3560c604f9a24bb8287d4e5403edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 05
+    second: {fileID: 2100000, guid: 0d2907d6e9e47d34d85cf7047047b5ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal 02
+    second: {fileID: 2100000, guid: 2e7a87586c9f2414aa400de2f477073d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal galvanized
+    second: {fileID: 2100000, guid: 67fe9ba920352b749ad145725740f4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tueren
+    second: {fileID: 2100000, guid: b034c8383d86d1945bad3280ea3b4ef1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 40
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

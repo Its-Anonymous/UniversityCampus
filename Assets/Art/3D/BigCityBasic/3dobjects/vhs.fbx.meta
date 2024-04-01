@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 8e5183f7e2057f242a50a0d5feff44ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: mauer
+    100004: stadtarchiv
+    100006: //RootNode
+    100008: vhs dach
+    100010: vhs part1
+    100012: vhs part2
+    100014: vhs part3
+    100016: vhs turm
+    400000: Camera
+    400002: mauer
+    400004: stadtarchiv
+    400006: //RootNode
+    400008: vhs dach
+    400010: vhs part1
+    400012: vhs part2
+    400014: vhs part3
+    400016: vhs turm
+    2300000: mauer
+    2300002: stadtarchiv
+    2300004: vhs dach
+    2300006: vhs part1
+    2300008: vhs part2
+    2300010: vhs part3
+    2300012: vhs turm
+    3300000: mauer
+    3300002: stadtarchiv
+    3300004: vhs dach
+    3300006: vhs part1
+    3300008: vhs part2
+    3300010: vhs part3
+    3300012: vhs turm
+    4300000: stadtarchiv
+    4300002: vhs part1
+    4300004: vhs part2
+    4300006: vhs dach
+    4300008: vhs part3
+    4300010: vhs turm
+    4300012: mauer
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 01
+    second: {fileID: 2100000, guid: edac40c65552be446b06a14c202012ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 02
+    second: {fileID: 2100000, guid: 862c6f80c6dfef24cb3778f2d9b21518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 03
+    second: {fileID: 2100000, guid: 2ab8981e42ed80649ad100e0175a72e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 04
+    second: {fileID: 2100000, guid: ff9a1cb96034afa4b9b855a4c09c5f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 05
+    second: {fileID: 2100000, guid: 2535856c9799c2d43b9dbc3ca32bc1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 06
+    second: {fileID: 2100000, guid: 5cdee454fe9d2f24e9474c95648475ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 01
+    second: {fileID: 2100000, guid: 4a23a1b100532494bb8fb45604f39d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 02
+    second: {fileID: 2100000, guid: 8cfc55f2d54280e4e86f507d985547ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 03
+    second: {fileID: 2100000, guid: 0f79eaaeb21767b40a0f2a24129c4af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: details 01
+    second: {fileID: 2100000, guid: ddf50339d070ca5439bb0d7d30a9f9bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: details 02
+    second: {fileID: 2100000, guid: f0844a55860d9e8479d97ca577aa06c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frechen vhs fenster glass
+    second: {fileID: 2100000, guid: 5b45721aff823f946a02d40a53531388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff schwarz
+    second: {fileID: 2100000, guid: 10c27a16f36bdfe4196736ab072cf8ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff weiss
+    second: {fileID: 2100000, guid: bc8d2aa91a373524d8bce6588faa45a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 01
+    second: {fileID: 2100000, guid: 750b5d08447086049911cfee0c5912ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal galvanized
+    second: {fileID: 2100000, guid: c70f8ce74c870ae45bb2faabffbca0e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tueren
+    second: {fileID: 2100000, guid: 2f2cad0503019624f9e87ef991b93da5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 41
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,2 +1,1 @@
-# UniversityCampus
-Voice Chat For Students
+# CDUCampus

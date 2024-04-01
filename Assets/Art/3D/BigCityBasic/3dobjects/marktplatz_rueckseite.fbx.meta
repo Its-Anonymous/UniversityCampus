@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: d37477ed1ab72244daa5df07db2cd051
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balkon 1
+    100002: balkon 2
+    100004: Camera
+    100006: gebaeude 1
+    100008: gebaeude 2
+    100010: gebaeude 3
+    100012: gebaeude 4
+    100014: gebaeude 5
+    100016: gebaeude 6
+    100018: gebaeude 7
+    100020: //RootNode
+    400000: balkon 1
+    400002: balkon 2
+    400004: Camera
+    400006: gebaeude 1
+    400008: gebaeude 2
+    400010: gebaeude 3
+    400012: gebaeude 4
+    400014: gebaeude 5
+    400016: gebaeude 6
+    400018: gebaeude 7
+    400020: //RootNode
+    2300000: balkon 1
+    2300002: balkon 2
+    2300004: gebaeude 1
+    2300006: gebaeude 2
+    2300008: gebaeude 3
+    2300010: gebaeude 4
+    2300012: gebaeude 5
+    2300014: gebaeude 6
+    2300016: gebaeude 7
+    3300000: balkon 1
+    3300002: balkon 2
+    3300004: gebaeude 1
+    3300006: gebaeude 2
+    3300008: gebaeude 3
+    3300010: gebaeude 4
+    3300012: gebaeude 5
+    3300014: gebaeude 6
+    3300016: gebaeude 7
+    4300000: gebaeude 1
+    4300002: gebaeude 3
+    4300004: gebaeude 4
+    4300006: gebaeude 5
+    4300008: gebaeude 6
+    4300010: gebaeude 7
+    4300012: balkon 1
+    4300014: balkon 2
+    4300016: gebaeude 2
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backplane 01
+    second: {fileID: 2100000, guid: 2b3d811942272664e8344f779ec5e72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 01
+    second: {fileID: 2100000, guid: 8ad7e7bd1b520f1418ba6eea12feaaa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 02
+    second: {fileID: 2100000, guid: b4f40a2c943801640a73fab85b0bfc17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 03
+    second: {fileID: 2100000, guid: cd90501b823f9f94792df56573d6882b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 04
+    second: {fileID: 2100000, guid: feb177b76b988e94d8371fafda442150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton schwarz weiss streifen
+    second: {fileID: 2100000, guid: 6e8f16bfd3aa84448a01744dca183747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton weiss1
+    second: {fileID: 2100000, guid: a87e41c1302902a4bb685b98f573a569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blumenkasten
+    second: {fileID: 2100000, guid: 868ef8090728378449b8956137c61ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blumenkasten erde
+    second: {fileID: 2100000, guid: e768fc5c14ab92a4db9169f18ef60984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 01
+    second: {fileID: 2100000, guid: aa7dd717dcd3d2445b521afb168f9475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 02
+    second: {fileID: 2100000, guid: cc856fc4b763b77429268901ba8dff0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach 03
+    second: {fileID: 2100000, guid: eba475831b171b64f9d8f1766053bf18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: details 01
+    second: {fileID: 2100000, guid: c13ab65340349fe419a217e803e3943b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fensterscheiben
+    second: {fileID: 2100000, guid: eb44cae77e608db489a0f0c954c52697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassscheiben balkone
+    second: {fileID: 2100000, guid: 1fb291534379b374581a9d7d09f330c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff braun
+    second: {fileID: 2100000, guid: 56b99fd3ffd9a844eab6eee44013bc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff weiss
+    second: {fileID: 2100000, guid: 22ed5e791255672459f949ceceb73ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 01
+    second: {fileID: 2100000, guid: 00558e8dea6708747bec632405befd4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 02
+    second: {fileID: 2100000, guid: 796decb7258149b4fb14d62c464ecf9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 03
+    second: {fileID: 2100000, guid: 499df44babe09fd4b87b6f0eadd3ebb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal 01
+    second: {fileID: 2100000, guid: c627e0968762e2a4eb2e190a393a05a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal 02
+    second: {fileID: 2100000, guid: 4c8e7d1a17cdb794499c327cda4e0c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platten 02
+    second: {fileID: 2100000, guid: 26e811ed24b034748bb617d3ffb05cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platten weiss
+    second: {fileID: 2100000, guid: 78e71b7a68f38a046b05c76faf410dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schaufenster
+    second: {fileID: 2100000, guid: c6c6fa33b61f8c64988d7b6e8c2aac8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 35
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

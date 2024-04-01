@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 81604c7ab7011074c9ada87d137e502d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blumenkasten baeume
+    100002: //RootNode
+    100004: boden main
+    100006: Camera
+    100008: mauer 1
+    100010: mauer 2
+    100012: mauer 3
+    100014: mauer 4
+    100016: mauer 5
+    100018: mauer 6
+    100020: mauer 7
+    100022: mauer 8
+    400000: blumenkasten baeume
+    400002: //RootNode
+    400004: boden main
+    400006: Camera
+    400008: mauer 1
+    400010: mauer 2
+    400012: mauer 3
+    400014: mauer 4
+    400016: mauer 5
+    400018: mauer 6
+    400020: mauer 7
+    400022: mauer 8
+    2300000: blumenkasten baeume
+    2300002: boden main
+    2300004: mauer 1
+    2300006: mauer 2
+    2300008: mauer 3
+    2300010: mauer 4
+    2300012: mauer 5
+    2300014: mauer 6
+    2300016: mauer 7
+    2300018: mauer 8
+    3300000: blumenkasten baeume
+    3300002: boden main
+    3300004: mauer 1
+    3300006: mauer 2
+    3300008: mauer 3
+    3300010: mauer 4
+    3300012: mauer 5
+    3300014: mauer 6
+    3300016: mauer 7
+    3300018: mauer 8
+    4300000: mauer 4
+    4300002: blumenkasten baeume
+    4300004: mauer 7
+    4300006: boden main
+    4300008: mauer 3
+    4300010: mauer 1
+    4300012: mauer 2
+    4300014: mauer 5
+    4300016: mauer 6
+    4300018: mauer 8
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt 01
+    second: {fileID: 2100000, guid: da990650e20c88b409c6f068aeb47f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt 02
+    second: {fileID: 2100000, guid: e66a4b3b51747624ea105572c4f03f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt streifen
+    second: {fileID: 2100000, guid: 6fd3015293dedb445beaf3cce6f78391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 01
+    second: {fileID: 2100000, guid: dc8ec1fdbfdf84146be249194a1333e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 02
+    second: {fileID: 2100000, guid: a884b1d3f16cf2549b9e636080f7d9ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 03
+    second: {fileID: 2100000, guid: e7bdad9287ed48840847a4aab2f592f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 04
+    second: {fileID: 2100000, guid: 3f3a0c5e08a29de45bc84145c6595388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 05
+    second: {fileID: 2100000, guid: 7e4908a2040b8814192c3040b58730ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 06
+    second: {fileID: 2100000, guid: 06bc66217de078d4982f6d84b64aef0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 07
+    second: {fileID: 2100000, guid: 6e6ab7ff9b817f242be6fe250f6922c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton 08
+    second: {fileID: 2100000, guid: 49f547a63241ee6428cb7ec38367f046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden details 01
+    second: {fileID: 2100000, guid: 9164626b524495d4e8260dc9a622fc28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden dreck
+    second: {fileID: 2100000, guid: 6c41e37cc252c1744b78a656df792c9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden platten 01
+    second: {fileID: 2100000, guid: d7e2b5479b47b03448d9eb81dabd1536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden platten 02
+    second: {fileID: 2100000, guid: 6e1b216226925b54aa51a9a8ed162845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden schienen
+    second: {fileID: 2100000, guid: 4b6a234db4ac79e41b5e9c50a2549f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 01
+    second: {fileID: 2100000, guid: c1f4ffac1b5d47e46b72df121be438be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 02
+    second: {fileID: 2100000, guid: c96a917562612fc45b23142bd947284a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 03
+    second: {fileID: 2100000, guid: edfcc56ea5805644191adb0a7aa4142a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 04
+    second: {fileID: 2100000, guid: d6c376d46eee0f34d8bdd40544c583a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 05
+    second: {fileID: 2100000, guid: 2fd1382c355e4cd48af1a6cebff460fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 06
+    second: {fileID: 2100000, guid: 8783d16d08814ed4bbeefe7b78894dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 07
+    second: {fileID: 2100000, guid: 3f9e014e486241f4ea1f0818f77ade9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 08
+    second: {fileID: 2100000, guid: c3b8adb79cace7244958e6b437975611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 09
+    second: {fileID: 2100000, guid: 1cc6e96910429614c8b4e6190669d7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 10
+    second: {fileID: 2100000, guid: a437daaeecf3f254fbe07685d5edc7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 11
+    second: {fileID: 2100000, guid: a5146d3695229c64f9c0718e58d83608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden steine 12
+    second: {fileID: 2100000, guid: f6e099a9c166b1248ba894104ad703ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden wiese
+    second: {fileID: 2100000, guid: eb1d0945d4dedb24193092e7b32eaa27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bordsteinkante 01
+    second: {fileID: 2100000, guid: 94c67db6327e4a242b83a11bdaa49c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: details 01
+    second: {fileID: 2100000, guid: c903bf18ee18612469d60db3725a46aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: details 02
+    second: {fileID: 2100000, guid: 7f6d63ae750e07d41b41581ed5339f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gehweg 01
+    second: {fileID: 2100000, guid: 866d22624a099bc44bfa3913500febc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunststoff braun
+    second: {fileID: 2100000, guid: dfeeb517bd80b52438df8bedde133db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 06
+    second: {fileID: 2100000, guid: a520319f1b058f942b50aa13b09a8ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 07
+    second: {fileID: 2100000, guid: d0fe9f041755b854590833a8a8109782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 08
+    second: {fileID: 2100000, guid: 5c969664dc8cea540a35121d884116b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mauer 09
+    second: {fileID: 2100000, guid: f06c613856842794092c52fb4d5b3bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal galvanized
+    second: {fileID: 2100000, guid: 77c9cb6fcf1c051429456f117c5461a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: park weg
+    second: {fileID: 2100000, guid: 2bde016fe45990d43a91e112cfc08897, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 38
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
