@@ -23,7 +23,7 @@ public class AgoraManager : MonoBehaviour
         }
     }
 
-    public const string APPID     = "1101e3d16b8545218fb307fde7148c42";
+    public const string APPID      = "1101e3d16b8545218fb307fde7148c42";
     public const string DefaultChannel = "default";
 
   
